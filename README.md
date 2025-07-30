@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola Equipo! 👋
 
 <!--
 **Sismode-digitalizacion/sismode-digitalizacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
